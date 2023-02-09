@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner{
+    background-image: url("../images/banner/banner3.png");
+   background-size: cover;
+   height: 800px;
+   width: 1600px;
+}
+
+.all{
+    color: white;
+    text-align:right;
+    display: flex;
+}
+.believe{
+    font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+margin-right: 180px;
+}
+.are{
+    margin-top: 210px;
+}
+.there{
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+margin-top: 25px;
+margin-left: 800px;
+margin-right: 180px;
+}
+
+.btn-contact{
+    margin-top: 30px;
+    font-weight: 600;
+font-size: 20px;
+color: #005FAC;
+height: 64px;
+background-color: white;
+width: 160px;
+border-radius: 5px;
+border: white;
+margin-right: 180px;
+}
+
+.year{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 130px;
+}
+.my{
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 300px;
+    color: #151414;
+    margin-right: 450px;
+    margin-left: 85px;
+
+}
+.previous{
+    font-weight: 700;
+    font-size: 40px;  
+    color: #151414;
+    margin-right: 450px;
+    margin-left: 85px;
+}
+
+.popular{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    color: #444343;
+    margin-left: 85px;
+    margin-right: 325px;
+}
+.belief{
+    margin-top: 16px;
+    margin-left: 85px;
+    margin-right: 325px;
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+}
+.contrary{
+    margin-top: 8px;
+    list-style: none;
+}
+.is{
+    list-style: none;
+    list-style-type: symbols();
+}
+
+/* my plans and */
+
+.plan{
+    margin-top: 130px;
+}
+
+.skills-container{
+    display: flex;
+    margin-left: 206px;
+    margin-right: 270px;
+    margin-top: 50px;
+    justify-content: space-between;
+
+}
+.about{
+    font-weight: 700;
+font-size: 40px;
+text-align: center;
+color: #151414;
+}
+.skill{
+    text-align: center;
+}
+.skill-title{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    text-align: center;
+}
+.skill-description{
+    font-weight: 500;
+font-size: 25px;
+text-align: center;
+color: #737272;
+}
+
+/* mindset */
+
+.now{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+border-radius: 8px;
+background-repeat: no-repeat;
+width: 1140px;
+height: 300px;
+margin: 130px 230px;
+}
+.keep{
+    padding: 64px 60px 610px;
+
+}
+.a{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.m{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.call{
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC; 
+    height: 64px;
+background-color: white;
+width: 160px;
+border-radius: 5px;
+border: white;
+margin-top: 25px;
+}
+
+
+.current{
+    display: flex;
+    background: #151414;
+    gap: 330px;
+    padding: 130px 230px;
+}
+
+.many{
+    color: #F8F8F8;
+    /* padding-left: 230px;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    padding-right: 880px; */
+    text-align: left;
+}
+.current .future{
+    text-align: left;
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+}
+.subscribe{
+    text-align: left;
+    color: #F8F8F8;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 16px;
+}
+.para{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.e{
+    font-weight: 400;
+font-size: 16px;
+margin-bottom: 16px;
+}
+.p{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+.img{
+text-decoration: none;
+    margin: 5px;
+}
+.fb{
+    text-decoration: none;
+}
+.man{
+    /* color: #F8F8F8;
+    margin-top: 130px;
+    text-align: right; */
+}
+
+
+/* .subscribe{
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF; */
+
+.text{
+    width: 200px;
+    height: 40px;
+    border: white
+
+}
+.j{
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    height: 64px;
+    background-color: #005FAC;
+    width: 160px;
+    border-radius: 5px;
+    border: white;
+    margin-top: 16px;  
+}
